@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="Main"/>
+  <qresource prefix="Buttons">
+    <file>GreenO.png</file>
+    <file>GreenO_Diagonal_L.png</file>
+    <file>GreenO_Diagonal_R.png</file>
+    <file>GreenO_Horizontal.png</file>
+    <file>GreenO_Vertical.png</file>
+    <file>GreenX.png</file>
+    <file>GreenX_Diagonal_L.png</file>
+    <file>GreenX_Diagonal_R.png</file>
+    <file>GreenX_Horizontal.png</file>
+    <file>GreenX_Vertical.png</file>
+  </qresource>
+</RCC>
